@@ -80,18 +80,6 @@ PowerBI or Tableau for dashboarding (Optional for final output)
 Installation
 To run this project locally, follow these steps:
 
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/NLP-woman-clothing.git
-Install dependencies:
-
-bash
-Copy code
-cd NLP-woman-clothing
-pip install -r requirements.txt
-Run the notebook or script:
 
 
 Contributing
