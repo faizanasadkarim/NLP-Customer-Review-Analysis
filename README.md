@@ -1,4 +1,4 @@
-# Customer Sentiment and Behavior Analysis for E-Commerce
+# Customer Sentiment and Behavior Analysis for E-Commerce and Streamlit Dashboard
 
 ## Objective
 This project aims to empower a women’s clothing e-commerce platform by analyzing customer reviews to improve overall satisfaction. By analyzing sentiment and identifying key themes from customer feedback, we can provide actionable insights that help enhance the customer experience.
