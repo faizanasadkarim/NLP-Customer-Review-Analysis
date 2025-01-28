@@ -38,7 +38,9 @@ Key Sentiment Drivers: Identification of features (such as product quality, ship
 Themes and Topics: Major themes extracted from the reviews using topic modeling (LDA) that influence customer opinions.
 ## Insights:
 Positive Sentiment: Customers tend to leave positive reviews related to product fit and quality.
+
 Negative Sentiment: Complaints frequently focus on delivery times or customer service issues.
+
 Common Themes: Topics such as "material quality", "size fitting", and "delivery speed" often emerge as common themes.
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
